@@ -16,7 +16,7 @@ jobs:
 
   job-2:
     name: Independent job 2
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest970
     steps:
       - name: Run job 2
         run: |
